@@ -25,7 +25,7 @@ async def home(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATE}"),
+                        "𝐒𝐎𝐔𝐑𝐂𝐄 𝐉𝐀𝐕𝐀", url=f"https://t.me/JAVA_tlethon"),
                     InlineKeyboardButton(
                         "ᴏᴛʜᴇʀs", callback_data="others")
                 ]
@@ -50,7 +50,7 @@ async def others(_, query: CallbackQuery):
                     InlineKeyboardButton(
                         "🗯️ ʜᴇʀᴏᴋᴜ", url=f"https://heroku.com"),
                     InlineKeyboardButton(
-                        "ɢɪᴛʜᴜʙ", url=f"https://github.com/Itz-Zaid")
+                        "ɢɪᴛʜᴜʙ", url=f"https://github.com")
                 ],
                 [
                     InlineKeyboardButton(

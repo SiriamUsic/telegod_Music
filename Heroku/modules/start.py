@@ -43,7 +43,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        " ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATE}"),
+                        "𝐒𝐎𝐔𝐑𝐂𝐄 𝐉𝐀𝐕𝐀", url=f"https://t.me/JAVA_tlethon"),
                     InlineKeyboardButton(
                         "ᴏᴛʜᴇʀs", callback_data="others")
                 ]
